@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1638752633 source:c:\users\asus\desktop\informatik\oop\praktikum4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1638752740 source:c:\users\asus\desktop\informatik\oop\praktikum4\src\image.cpp
+	"Image.h"
+
+1638751863 c:\users\asus\desktop\informatik\oop\praktikum4\include\image.h
+	<fstream>
+	<string>
+	<iostream>
+
